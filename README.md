@@ -1,4 +1,4 @@
-> This project is ARCHIVED. You can still fork it, but to submit issues or propose changes, go to https://github.com/cfpaige/get-the-ushe/issues instead.
+> This project is ARCHIVED. You can still fork it, but to clone the latest version, or to submit issues or propose changes, go to https://github.com/cfpaige/get-the-ushe/ instead.
 
 # The Ushe \[t͟hə ˈyüzh]
 
@@ -6,45 +6,59 @@ The one-stop app for all your meal trains, office coffee runs, and "can I get yo
 
 Save your favorites, share, and discover. 
 
-> With The Ushe, you don't have to be a regular to get the usual.
+#### _With The Ushe, you don't have to be a regular to get the usual!_
 
 ------------------------------------
 
 ## Y tho?
-![Still from The Devil Wears Prada with Anne Hathaway talking on the phone and carrying a tray of four coffees](/devil-prada-coffee-run.jpg)
 
 We've all been there: You've tried your best, but somebody's not getting what they wanted anyway. Or a friend was being thoughtful when you were sick, and brought in a meal... That you cannot eat. Or you're somewhere you've been before, where you had that thing you liked a lot, but cannot remember where exactly or what it was. Or you're in a new place, the menu's a confusing mess, and you just want to know what's people's favorite there so you can play it cool.
 
+![Still from The Devil Wears Prada with Anne Hathaway talking on the phone and carrying a tray of four coffees](/devil-prada-coffee-run.jpg)
+
 The Ushe has got your back. Keep track of your favorite places and orders, share with friends, pool orders, check out what's most popular in your area. 
 
-> Give what they really like, get what you ordered.
+#### _Give what they really like, get what you ordered._
 
 ------------------------------------
 
-## Overview
+## Structure
 
-1. **Home page** displays the app name, tagline, and the option to either `Login` or `Register`. During registration, a new user can add their allergies (or dislikes) to the profile.
+#### Home page
+
+  Displays the app name, tagline, and the option to either `Login` or `Register`:
 
 ![Screenshot of The Ushe Home page](/the-ushe-home.png)
 
+  During registration, a new user can add their allergies (or dislikes) to the profile:
+
 ![Screenshot of The Ushe Registration modal](/the-ushe-registration.png)
 
-2. **Profile** displays the user's list of favorites and lets them add new ones.
+
+#### Profile
+
+  Displays the user's list of favorites and lets them add new ones:
 
 ![Screenshot of The Ushe user profile page](/the-ushe-profile.png)
 
+  Clicking `ADD A NEW USHE` opens a modal over the user's profile page:
+
 ![Screenshot of The Ushe user profile page with the new ushe modal open](/the-ushe-new-order.png)
- 
-3. **Feed** displays a list of latest favorites from all users.
+
+
+#### Feed
+
+  Displays a list of latest favorites from all users:
 
 ![Screenshot of The Ushe feed showing a list of favorite orders from various users](/the-ushe-feed.png)
+
 
 <div>
   <details>
    <summary>Additional features</summary>
 <br>
 
-This version of the app was a proof of concept and was archived in the form in which it was presented. At that time, it was missing several necessary features:
+This version of the app is a proof of concept and was archived in the form in which it was presented. At that time, it was missing several necessary features:
 
 - authentication rules to redirect logged-in users to the local feed instead of login/registration view of the Home page (no automatic user logout)
 - profile functionality (ability to edit or delete one's favorites or profile, ability to log out)
@@ -53,6 +67,8 @@ This version of the app was a proof of concept and was archived in the form in w
 - social functionality (linking with friends, creating order pools, liking others' orders, chat/commenting)
 - About/Contact page
 - Search
+
+To see the latest version, go to https://github.com/cfpaige/get-the-ushe.
 
 </details>
 </div>
@@ -132,15 +148,20 @@ You can deploy within [GitHub](https://pages.github.com/), with [Heroku](https:/
 </details>
 </div>
 
-#### Built With [![Build Status](https://travis-ci.com/cfpaige/the-ushe.svg?branch=alltogether)](https://travis-ci.com/cfpaige/the-ushe)
-
-[Visual Studio Code](https://code.visualstudio.com/)
-
-#### Contributing
-
+<div>
+  <details>
+   <summary><b>Contributing</b></summary>
+<br>
 This repository has been archived. To suggest changes or fixes, go to the latest version of the app and use the Issues feature of GitHub there: https://github.com/cfpaige/get-the-ushe
 
 ![GitHub Issues menu screencap](/the-ushe-issues.png)
+
+</details>
+</div>
+
+#### Built With [![Build Status](https://travis-ci.com/cfpaige/the-ushe.svg?branch=alltogether)](https://travis-ci.com/cfpaige/the-ushe)
+
+[Visual Studio Code](https://code.visualstudio.com/)
 
 #### Authors
 
