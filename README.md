@@ -24,7 +24,7 @@ The Ushe has got your back. Keep track of your favorite places and orders, share
 
 ## Structure
 
-#### Home page
+### Home page
 
   Displays the app name, tagline, and the option to either `Login` or `Register`:
 
@@ -35,7 +35,7 @@ The Ushe has got your back. Keep track of your favorite places and orders, share
 ![Screenshot of The Ushe Registration modal](/the-ushe-registration.png)
 
 
-#### Profile
+### Profile
 
   Displays the user's list of favorites and lets them add new ones:
 
@@ -46,7 +46,7 @@ The Ushe has got your back. Keep track of your favorite places and orders, share
 ![Screenshot of The Ushe user profile page with the new ushe modal open](/the-ushe-new-order.png)
 
 
-#### Feed
+### Feed
 
   Displays a list of latest favorites from all users:
 
