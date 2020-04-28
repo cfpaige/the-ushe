@@ -1,5 +1,3 @@
-> This project is ARCHIVED. You can still fork it, but to clone the latest version, or to submit issues or propose changes, go to https://github.com/cfpaige/get-the-ushe/ instead.
-
 # The Ushe \[t͟hə ˈyüzh]
 
 The one-stop app for all your meal trains, office coffee runs, and "can I get you something on the way?" requests, and getting every one of them right, every time.
