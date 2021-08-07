@@ -141,7 +141,7 @@ You can deploy within [GitHub](https://pages.github.com/), with [Heroku](https:/
 - set up the DNS records and make sure that all the settings are correct;
 - set up and test the website on the production server (where it will live);
 - set up email;
-- back up any old site BuddyApp would be replacing (if applicable) and deploy the new one;
+- back up any old site The Ushe would be replacing (if applicable) and deploy the new one;
 
 </details>
 </div>
